@@ -1,0 +1,13 @@
+item,category,price,prep_min,vegetarian
+Masala Chai,Drinks,40,4,yes
+Filter Coffee,Drinks,50,5,yes
+Matcha Latte,Drinks,180,6,yes
+Hot Chocolate,Drinks,150,6,yes
+Lemonade,Drinks,60,3,yes
+Samosa,Snacks,30,2,yes
+Veg Puff,Snacks,45,3,yes
+Maggi,Meals,70,8,yes
+Grilled Sandwich,Meals,120,10,yes
+Chicken Roll,Meals,160,12,no
+Chocolate Brownie,Desserts,90,2,yes
+Banana Bread,Desserts,80,2,yes
